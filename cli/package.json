@@ -1,0 +1,16 @@
+{
+  "name": "mission-4-project",
+  "version": "1.0.0",
+  "description": "cli for mongodb",
+  "main": "car-cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node car-cli.js"
+  },
+  "author": "mission-4-app",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
